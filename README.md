@@ -1,6 +1,6 @@
 # Databricks Certified Data Engineer Associate
 
-This repository contains the resources of the preparation course for Databricks Data Engineer Associate certification exam on Udemy:
+This repository contains the resources of the preparation course for the Databricks Data Engineer Associate certification exam on Udemy. I am adding more code in this repo as part of learning.
 
 <a href="https://www.udemy.com/course/databricks-certified-data-engineer-associate/?referralCode=F0FA48E9A0546C975F14" target="_blank">https://www.udemy.com/course/databricks-certified-data-engineer-associate/?referralCode=F0FA48E9A0546C975F14</a>.<br/>
 
